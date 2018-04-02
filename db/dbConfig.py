@@ -4,7 +4,7 @@ db_config={
     'port':3306,
     'user':'root',
     'password':'root',
-    'database':'epin_copy',
+    'database':'epin_new',
     'charset':'UTF8',
 }
-#header
+
